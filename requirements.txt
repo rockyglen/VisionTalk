@@ -1,0 +1,11 @@
+torch
+torchvision
+opencv-python
+numpy
+pytesseract
+Pillow
+transformers
+easyocr
+TTS
+ipython
+streamlit
